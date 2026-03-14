@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<modded_inputs>
+	<inputs>
+		<actions>
+			<input name="SwapGapMode" loc="STR_FOLD_HOOD" />
+		</actions>
+	</inputs>
+	<preset>
+		<input name="SwapGapMode">
+			<btn name="kL">
+			</btn>
+		</input>	
+	</preset>
+</modded_inputs>

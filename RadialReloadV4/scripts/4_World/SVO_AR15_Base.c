@@ -1,0 +1,1 @@
+class SVO_AR15_Base : RifleBoltLock_Base{};
